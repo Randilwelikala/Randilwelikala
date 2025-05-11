@@ -23,7 +23,7 @@
   Hands-on experience in a professional environment where I enhanced my **problem-solving** and **communication** skills.
 
 ### 👨‍🏫 Additional Activities
-- 📊 **Mathematics Tutor** for Grade 6–11 students
+- 📊 **Mathematics Tutor** for Grade 6–11 students  
 - 📘 **Diploma in Psychology and Counselling (Ongoing)** – improving interpersonal and soft skills
 
 ---
@@ -46,12 +46,34 @@
 
 ---
 
+## 📚 Currently Learning
+
+- 📱 Flutter and Dart  
+- 🧠 Data Structures & Algorithms  
+- ☁️ Cloud Computing Basics (Azure / AWS)  
+
+---
+
+## 🧩 Featured Projects
+
+- 🔐 [E-commerce Admin System](https://github.com/Randilwelikala/ecommerce-admin) – Full-stack admin panel with React and JSP  
+- 🤖 [Prototype Design Pattern - Robot Factory](https://github.com/Randilwelikala/robot-factory-pattern) – Demonstrates design patterns using C#  
+- 📚 [LMS for Tuition Classes](https://github.com/Randilwelikala/tuition-lms) – Learning platform built for grade 6–11 math students  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Randilwelikala&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randilwelikala&layout=compact&theme=radical" height="180"/>
 </p>
+
+---
+
+## 🔥 GitHub Contribution Graph
+
+[![Randil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Randilwelikala&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -63,10 +85,18 @@
 
 ---
 
+## ⚡ Fun Facts
+
+- 🧠 I love solving logic puzzles and brain teasers.  
+- 🎧 Music keeps me focused while coding.  
+- 🏔️ Dreaming of coding from a mountain cabin someday!  
+
+---
+
 ## 📫 Connect with Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/randil-welikala-03336b249/)" target="_blank">
+  <a href="https://www.linkedin.com/in/randil-welikala-03336b249/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin">
   </a>
   <a href="mailto:randilgimantha646@gmail.com" target="_blank">
@@ -85,3 +115,4 @@
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Randilwelikala&color=brightgreen)
