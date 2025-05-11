@@ -6,6 +6,22 @@
 
 ---
 
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-image-url/banner.png" alt="banner" width="100%" />
+</p>
+
+<!-- Logo and Typing Animation -->
+<p align="center">
+  <img src="https://your-image-url/logo.png" width="120" height="120" style="border-radius: 50%;" alt="Randil Logo" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Randil+Welikala;Software+Engineering+Undergraduate;Full+Stack+Developer+%7C+Tutor;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
+</h1>
+
+---
+
 ## 📌 About Me
 
 I'm a passionate software engineering undergraduate at **NSBM Green University**, Sri Lanka 🇱🇰.  
