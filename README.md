@@ -1,64 +1,129 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Randil Welikala</span> 👋</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Randil Welikala</span></h1>
 
 <p align="center">
-🎓 3rd Year Undergraduate | 💻 Software & Web Developer | 🌱 Lifelong Learner  
+  🎓 3rd Year Software Engineering Undergraduate | 💻 Full Stack Developer | 🧠 Lifelong Learner  
 </p>
 
 ---
 
 ## 📌 About Me
 
-🎓 I’m currently pursuing a **BSc (Honours) in Software Engineering** at **NSBM Green University**.  
-💡 Passionate about **software and web development**, always eager to learn and build innovative solutions.  
-📍 Based in **Sri Lanka**.
+I'm a passionate software engineering undergraduate at **NSBM Green University**, Sri Lanka 🇱🇰.  
+I love turning ideas into real-world applications through **clean, efficient, and scalable code**.
 
-### 🏫 Education
-- 🏫 **St. John's College, Nugegoda**
-  - 📘 **G.C.E. O/L (2016):** 6 A's and 3 B's
-  - 📗 **G.C.E. A/L (2020 - Mathematics Stream):** 3 C passes
+🔭 I’m currently working on:
+- Building a full-featured **e-commerce system** with admin controls
+- Developing a **LMS platform** for school-level education
+- Learning **Flutter** to create cross-platform mobile apps
 
-### 💼 Experience
-- 🏦 **Trainee at Bank of Ceylon (2021)**  
-  Hands-on experience in a professional environment where I enhanced my **problem-solving** and **communication** skills.
+📫 Contact me at: `randilgimantha646@gmail.com`
 
-### 👨‍🏫 Additional Activities
-- 📊 **Mathematics Tutor** for Grade 6–11 students  
-- 📘 **Diploma in Psychology and Counselling (Ongoing)** – improving interpersonal and soft skills
+🧠 Strengths:
+- Logical Thinking & Algorithm Design
+- UI/UX-focused frontend development
+- Leadership and communication through tutoring and teamwork
+
+---
+
+## 🏫 Education
+
+### 🎓 NSBM Green University (2021–2025)
+- **BSc (Hons) in Software Engineering**
+- Current GPA: ~ (you can add if known)
+- Member of Developer and ICT societies
+
+### 🏫 St. John's College, Nugegoda
+- **G.C.E. O/L (2016):** 6 A’s, 3 B’s  
+- **G.C.E. A/L (2020 - Mathematics Stream):** Combined Maths, Physics, ICT – 3 C passes
+
+---
+
+## 💼 Work Experience
+
+### 🏦 Bank of Ceylon – Trainee (2021)
+- Supported IT-related operations and office systems
+- Improved documentation, team coordination, and customer interaction
+- Developed strong communication, punctuality, and adaptability skills
+
+---
+
+## 👨‍🏫 Side Activities
+
+- 📚 **Private Tutor:** Teaching mathematics (Grade 6–11)
+- 🧘‍♂️ Psychology Diploma (Ongoing): Enhancing people skills and emotional intelligence
+- 💬 Active in GitHub discussions and open-source contributions
 
 ---
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide)
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
+
+### 💾 Database & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Tools & IDEs
 
-- 📱 Flutter and Dart  
-- 🧠 Data Structures & Algorithms  
-- ☁️ Cloud Computing Basics (Azure / AWS)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
 
 ---
 
 ## 🧩 Featured Projects
 
-- 🔐 [E-commerce Admin System](https://github.com/Randilwelikala/ecommerce-admin) – Full-stack admin panel with React and JSP  
-- 🤖 [Prototype Design Pattern - Robot Factory](https://github.com/Randilwelikala/robot-factory-pattern) – Demonstrates design patterns using C#  
-- 📚 [LMS for Tuition Classes](https://github.com/Randilwelikala/tuition-lms) – Learning platform built for grade 6–11 math students  
+- 🔐 **[Admin E-Commerce Panel](https://github.com/Randilwelikala/ecommerce-admin)** – Admin system with login/signup, approval features, and super admin control.
+- 🤖 **[Robot Factory - Prototype Pattern](https://github.com/Randilwelikala/robot-factory-pattern)** – OOP + design pattern practice in C#.
+- 📘 **[Tuition LMS](https://github.com/Randilwelikala/tuition-lms)** – Online platform for students to access lessons and quizzes.
+
+---
+
+## 🏅 Achievements
+
+- 🥇 First Place – Group Presentation at Green EXE 2 (NSBM Software Project Competition)
+- 🏆 Top performer in multiple group projects for software design and implementation
+- 🧑‍🏫 Over 50+ school students tutored in math successfully
+
+---
+
+## 🗓️ Timeline
+
+| Year | Event |
+|------|-------|
+| 2016 | Completed O/L with 6A 3B |
+| 2020 | A/L Mathematics Stream |
+| 2021 | Joined NSBM & Bank of Ceylon trainee |
+| 2023 | Started personal GitHub portfolio |
+| 2024 | Developed full e-commerce system |
+| 2025 | Final Year Projects + Graduation 🎓 |
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Contribute to open-source Flutter projects
+- 🔄 Complete a full-stack MERN app
+- 📱 Publish my first mobile app
+- 🌍 Do remote freelance projects
+- 🎓 Graduate with honors
 
 ---
 
@@ -85,15 +150,15 @@
 
 ---
 
-## ⚡ Fun Facts
+## 🧠 Fun Facts
 
-- 🧠 I love solving logic puzzles and brain teasers.  
-- 🎧 Music keeps me focused while coding.  
-- 🏔️ Dreaming of coding from a mountain cabin someday!  
+- 🧠 I love solving puzzles and optimization problems
+- 🎧 I code better with lo-fi beats
+- 🌄 Dream: Build an education app that helps rural students
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/randil-welikala-03336b249/" target="_blank">
@@ -106,12 +171,6 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github">
   </a>
 </p>
-
----
-
-## 💬 Quote
-
-> “Code is not just a language for machines — it’s a language for thinkers, dreamers, and builders.”
 
 ---
 
