@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Your Name</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Randil Welikala</span> 👋</h1>
 
 <p align="center">
 🎓 3rd Year Undergraduate | 💻 Software & Web Developer | 🌱 Lifelong Learner  
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Randilwelikala&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randilwelikala&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Randilwelikala&theme=monokai&column=7" />
 </p>
 
 ---
