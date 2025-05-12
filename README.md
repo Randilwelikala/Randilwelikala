@@ -46,7 +46,6 @@ I love turning ideas into real-world applications through **clean, efficient, an
 
 ### 🎓 NSBM Green University (2021–2025)
 - **BSc (Hons) in Software Engineering**
-- Current GPA: ~ (you can add if known)
 - Member of Developer and ICT societies
 - Roles: **Technical Coordinator-** (2024), **Chief Editor (2025)** of the Association of Software Engineering
 
