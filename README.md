@@ -30,7 +30,7 @@ I love turning ideas into real-world applications through **clean, efficient, an
 🔭 I’m currently working on:
 - Building a full-featured **e-commerce system** with admin controls
 - Developing a **LMS platform** for school-level education
-- Learning **React to** build dynamic and responsive web applications
+- Learning **React** to build dynamic and responsive web applications
 
 📫 Contact me at: `randilgimantha646@gmail.com`
 
