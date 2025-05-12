@@ -35,9 +35,10 @@ I love turning ideas into real-world applications through **clean, efficient, an
 📫 Contact me at: `randilgimantha646@gmail.com`
 
 🧠 Strengths:
-- Logical Thinking & Algorithm Design
-- UI/UX-focused frontend development
-- Leadership and communication through tutoring and teamwork
+- Strong logical thinking and mathematics skills
+- Capable in developing websites, mobile apps, and backend systems
+- Focused on functionality and performance over UI/UX design
+- Excellent communication and leadership through tutoring and collaboration
 
 ---
 
