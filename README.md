@@ -96,8 +96,7 @@ I love turning ideas into real-world applications through **clean, efficient, an
 ### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
+
 
 ### 💾 Database & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
