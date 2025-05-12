@@ -63,9 +63,15 @@ I love turning ideas into real-world applications through **clean, efficient, an
 ## 💼 Work Experience
 
 ### 🏦 Bank of Ceylon – Trainee (2021)
-- Supported IT-related operations and office systems
-- Improved documentation, team coordination, and customer interaction
-- Developed strong communication, punctuality, and adaptability skills
+- Managed passbook updates, issuance of new passbooks, and cheque book distribution to customers
+
+- Provided exceptional customer support for online banking services, including troubleshooting issues, assisting with app installation, and resetting passwords
+
+- Delivered prompt and efficient solutions to customer inquiries, enhancing their banking experience
+
+- Developed strong problem-solving, customer service, and communication skills while adapting to a fast-paced environment
+
+- Contributed to the seamless operation of day-to-day tasks through meticulous attention to detail and excellent time management
 
 ---
 
