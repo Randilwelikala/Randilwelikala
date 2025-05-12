@@ -54,7 +54,7 @@ I love turning ideas into real-world applications through **clean, efficient, an
 - **G.C.E. O/L (2016):** 6 A’s, 3 B’s  
 - **G.C.E. A/L (2020 - Mathematics Stream):** Combined Maths, Physics, Chemistry  – 3 C passes
 
-  ###🎓 Diploma in Psychology and Counselling (Ongoing)
+  ##🎓 Diploma in Psychology and Counselling (Ongoing)
 
 ---
 
