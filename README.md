@@ -124,11 +124,8 @@ I love turning ideas into real-world applications through **clean, efficient, an
 
 ## 🏅 Achievements
 
-## 🏅 Achievements
-
-- 🥇 First Place – Group Presentation at Green EXE 2 (NSBM Software Project Competition)
-- 🏆 Top performer in multiple group projects for software design and implementation
 - 🧑‍🏫 Over 50+ school students tutored in math successfully
+- 🏆 Top performer in multiple group projects for software implementation
 - 🧩 Appointed **Technical Coordinator** of the Association of Software Engineering, NSBM (2024)
 - ✍️ Currently serving as **Chief Editor** of the same association (2025)
 
@@ -139,12 +136,12 @@ I love turning ideas into real-world applications through **clean, efficient, an
 
 | Year | Event |
 |------|-------|
-| 2016 | Completed O/L with 6A 3B |
-| 2020 | A/L Mathematics Stream |
-| 2021 | Joined NSBM & Bank of Ceylon trainee |
-| 2023 | Started personal GitHub portfolio |
-| 2024 | Developed full e-commerce system |
-| 2025 | Final Year Projects + Graduation 🎓 |
+| 2016 | Completed G.C.E. O/L with 6 A’s, 3 B’s |
+| 2020 | G.C.E. A/L (Mathematics Stream) with Combined Maths, Physics, Chemistry – 3 C’s  |
+| 2021 | Joined NSBM Green University & Worked as Front Counter Trainee at Bank of Ceylon |
+| 2023 | Started building personal GitHub portfolio |
+| 2024 | Developed a full-featured e-commerce system |
+
 
 ---
 
@@ -154,7 +151,6 @@ I love turning ideas into real-world applications through **clean, efficient, an
 - 🔄 Complete a full-stack MERN app
 - 📱 Publish my first mobile app
 - 🌍 Do remote freelance projects
-- 🎓 Graduate with honors
 
 ---
 
@@ -205,4 +201,5 @@ I love turning ideas into real-world applications through **clean, efficient, an
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Randilwelikala&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Randilwelikala&label=PROFILE+VIEWS&color=brightgreen&style=flat)
+
