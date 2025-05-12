@@ -89,8 +89,8 @@ I love turning ideas into real-world applications through **clean, efficient, an
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ### 🧰 Frameworks & Libraries
