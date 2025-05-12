@@ -101,7 +101,7 @@ I love turning ideas into real-world applications through **clean, efficient, an
 ### 💾 Database & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
+
 
 ---
 
@@ -117,9 +117,8 @@ I love turning ideas into real-world applications through **clean, efficient, an
 
 ## 🧩 Featured Projects
 
-- 🔐 **[Admin E-Commerce Panel](https://github.com/Randilwelikala/ecommerce-admin)** – Admin system with login/signup, approval features, and super admin control.
-- 🤖 **[Robot Factory - Prototype Pattern](https://github.com/Randilwelikala/robot-factory-pattern)** – OOP + design pattern practice in C#.
-- 📘 **[Tuition LMS](https://github.com/Randilwelikala/tuition-lms)** – Online platform for students to access lessons and quizzes.
+- 🔐 **[Books Spark- Library app](https://github.com/Randilwelikala/booksSpark.git)** – Admin and user system with login/signup, approval features, and book list control.
+
 
 ---
 
