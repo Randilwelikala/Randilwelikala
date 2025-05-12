@@ -50,7 +50,7 @@ I love turning ideas into real-world applications through **clean, efficient, an
 - Member of Developer and ICT societies
 - Roles: **Technical Coordinator-** (2024), **Chief Editor (2025)** of the Association of Software Engineering
 
-## 🎓 Diploma in Psychology and Counselling (Ongoing)  
+### 🎓 Diploma in Psychology and Counselling (Ongoing)  
 
 ### 🏫 St. John's College, Nugegoda
 - **G.C.E. O/L (2016):** 6 A’s, 3 B’s  
