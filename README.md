@@ -114,9 +114,14 @@ I love turning ideas into real-world applications through **clean, efficient, an
 
 ## 🏅 Achievements
 
+## 🏅 Achievements
+
 - 🥇 First Place – Group Presentation at Green EXE 2 (NSBM Software Project Competition)
 - 🏆 Top performer in multiple group projects for software design and implementation
 - 🧑‍🏫 Over 50+ school students tutored in math successfully
+- 🧩 Appointed **Technical Coordinator** of the Association of Software Engineering, NSBM (2024)
+- ✍️ Currently serving as **Chief Editor** of the same association (2025)
+
 
 ---
 
