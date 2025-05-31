@@ -7,14 +7,14 @@
 ---
 
 <!-- Banner Image -->
-<p align="center">
+<!--<p align="center">
   <img src="https://your-image-url/banner.png" alt="banner" width="100%" />
-</p>
+</p>-->
 
 <!-- Logo and Typing Animation -->
-<p align="center">
+<!--<p align="center">
   <img src="https://your-image-url/logo.png" width="120" height="120" style="border-radius: 50%;" alt="Randil Logo" />
-</p>
+</p>-->
 
 <h1 align="center">
   
